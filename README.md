@@ -5,10 +5,10 @@ This repository contains research materials for the Generative AI project.
 It includes datasets, scripts, documentation, and references used throughout the study.
 
 ## Repository Structure
-- **data/**: Raw and processed datasets  
-- **scripts/**: Code files (Python, R, etc.) for data analysis and modeling  
+- **figure/**: figures while researching
+- **reference/**: Reference materials and bibliography files  
 - **docs/**: Project documents (proposal, final paper, submitted versions)  
-- **references/**: Reference materials and bibliography files  
+- **research files/**: interview files
 - **results/**: Visualizations, analysis outputs, and plots  
 
 ## How to Navigate
